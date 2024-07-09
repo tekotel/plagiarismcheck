@@ -1,2 +1,2 @@
-# rssfeedreader
-Terminal
+# PlagiarismCheck
+----
